@@ -1,0 +1,373 @@
+# Country unit colors
+
+#Yuan Dynasty
+YUA = {
+    color1= { 178  12  24 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+#Alpine Federation
+ALP = {
+    color1= { 226  222  225 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+#Kingdom of Jerusalem
+KOJ = {
+    color1= { 226  222  225 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+#Kingdom of Khemet
+KHM = {
+    color1= { 48  62  232 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+#Armenian Kingdom of Clicia
+KOJ = {
+    color1= { 229  97  16 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+#County of Edessa
+COE = {
+    color1= { 226  227  15 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+#Principality of Antioch
+POA = {
+    color1= { 68  58  255 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+#County of Tripoli
+COT = {
+    color1= { 191  6  11 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+#Bavaria
+BAV = {
+    color1= { 221  203  2 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+#Mexico
+MEX = {
+    color1= { 221  203  2 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+#General captaincy of Guatemala
+UCA = {
+    color1= { 221  203  2 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+#Romani
+RMN = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+#Franconia
+FRN = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+#Brandenburg
+BRN = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+#Lutici
+LTC = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+#Pomerania
+POM = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+#Silesia
+SIL = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+# Westfallia
+WES = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+# Otsfallia
+OST = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+# Ingria
+ING = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+# Kalmar
+KLM = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+# SouthRhineland
+SRH = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+# NorthRhineland
+NRH = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+# Bourgogne
+BOU = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+# Friesland
+FRI = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+# Lotharingia
+LOT = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+# Normandie
+NRM = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+# Breizh
+BRT = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+# Aquitania
+AQU = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+# Toulouse
+TOU = {
+    color1= { 185  122  87 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+# Lusitania
+LUS = {
+    color1= { 35  140  130 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+# Granada
+GRA = {
+    color1= { 255  255  160 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+# Galicia
+GLC = {
+    color1= { 160  170  190 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+# Spanish Rep
+SPR = {
+    color1= { 197  25  255 }
+    color2= { 255 255 255  }
+    color3= { 193 26 14  }
+}
+
+# Spanish Kingdom
+SPA = {
+    color1= { 231 181 12  }
+    color2= { 244 56 49  }
+    color3= { 154 69 116  }
+}
+
+# Navarra
+NAV = {
+    color1= { 244 255 96  }
+    color2= { 244 56 49  }
+    color3= { 154 69 116  }
+}
+
+# Frankfurt FIXED
+FRM = {
+    color1= { 244 56 49  }
+    color2= { 100 100 100  }
+    color3= { 80 79 88  }
+}
+
+# Mexico
+MEX = {
+    color1= { 219 124 139  }
+    color2= { 101 102 163  }
+    color3= { 69 157 208  }
+}
+
+# France
+FRA = {
+    color1= { 63 125 214  }
+    color2= { 129 177 125  }
+    color3= { 121 162 109  }
+}
+
+# Anhalt FIXED
+ANH = {
+    color1= { 134 224 126  }
+    color2= { 244 56 49  }
+    color3= { 134 166 117  }
+}
+ 
+#  Baden FIXED
+BAD = {
+    color1= { 255 242 103  }
+    color2= { 140 126 69  }
+    color3= { 119 151 122  }
+}
+
+# Bavaria FIXED
+BAV = {
+    color1= { 122 182 242  }
+    color2= { 255 255 255  }
+    color3= { 187 79 86  }
+}
+
+# Braunschweig FIXED
+BRA = {
+    color1= { 103 123 204  }
+    color2= { 248 199 67  }
+    color3= { 210 106 47  }
+}
+
+
+# Germany
+GER = {
+    color1= { 255 255 255  }
+    color2= { 80 79 88  }
+    color3= { 17 16 203  }
+}
+
+# Austria
+AUS = {
+    color1= { 170 43 21  }
+    color2= { 99 137 153  }
+    color3= { 17 16 203  }
+}
+
+# Hesse FIXED
+HES = {
+    color1= { 255 255 255  }
+    color2= { 244 56 49  }
+    color3= { 195 149 155  }
+}
+
+# Mecklenburg FIXED
+MEC = {
+    color1= { 248 199 67  }
+    color2= { 244 56 49  }
+    color3= { 112 150 105  }
+}
+
+# Oldenburg FIXED
+OLD = {
+    color1= { 244 56 49  }
+    color2= { 69 80 169  }
+    color3= { 104 137 140  }
+}
+
+# Saxony FIXED
+SAX = {
+    color1= { 255 255 255  }
+    color2= { 134 224 126  }
+    color3= { 117 127 174  }
+}
+
+# Wurttemberg
+WUR = {
+    color1= { 100 100 100  }
+    color2= { 197 92 106  }
+    color3= { 119 151 122  }
+}
+
+# Catalonia
+CAT = {
+    color1= { 213 132 76  }
+    color2= { 183 176 194  }
+    color3= { 137 183 124  }
+}
+
+# Nassau FIXED
+NAS = {
+    color1= { 80 125 196  }
+    color2= { 215 131 0  }
+    color3= { 17 16 203  }
+}
+
+# Lubeck FIXED
+LUB = {
+    color1= { 255 255 255  }
+    color2= { 244 56 49  }
+    color3= { 195 149 155  }
+}
